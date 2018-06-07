@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Shawn WHY?????????????
         // Testing testing Shawn !!!!!!!!!!!!is here testing goober
-        //HI SHAWN!!!          3.0
+        //SHAWN!!!          3.0
 
     }
 }
