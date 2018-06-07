@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // Testing testing Justin is here testing goober
-        //HI SHAWN!!! IMA GOOFY GOOBER!!! ya stink
+        //HI SHAWN!!! IMA GOOFY GOOBER!!! ya stinkasdasdasdasdasdasd
     }
 }
